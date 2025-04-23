@@ -24,3 +24,32 @@
     width: 244px;
     height: 57px;
 }
+
+/* Here start with banner style */
+
+.banner-hero{
+    background-image: url("/images/Hero-bg.png");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.main-heading {
+    margin-bottom: 24px;
+}
+
+.full-para {
+    margin-bottom: 32px;
+}
+
+.para-font {
+    font-family: "Azeret Mono", monospace;
+    font-weight: 100;
+}
+
+.contact-btn{
+    background-color: rgb(13, 19, 33, 100%);
+    color: white;
+    padding: 21px;
+    margin-bottom: 45px;
+    border-radius: 10px;
+}
