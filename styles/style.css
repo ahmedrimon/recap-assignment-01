@@ -28,7 +28,7 @@
 /* Here start with banner style */
 
 .banner-hero{
-    background-image: url("/images/Hero-bg.png");
+    background-image: url("images/Hero-bg.png");
     background-repeat: no-repeat;
     text-align: center;
 }
@@ -128,7 +128,7 @@
 
 .support-page {
     font-family: "Azeret Mono", monospace;
-    background-image: url("/images/handshake.jpg");
+    background-image: url("images/handshake.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
