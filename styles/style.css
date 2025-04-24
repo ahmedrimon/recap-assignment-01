@@ -18,7 +18,7 @@
     margin: 0 150px;
 }
 
-.btn-styling{
+.btn-styling {
     border: 1px solid gray;
     border-radius: 10px;
     width: 244px;
@@ -27,8 +27,8 @@
 
 /* Here start with banner style */
 
-.banner-hero{
-    background-image: url("/images/Hero-bg.png");
+.banner-hero {
+    background-image: url(/images/Hero-bg.png);
     background-repeat: no-repeat;
     text-align: center;
 }
@@ -46,7 +46,7 @@
     font-weight: 100;
 }
 
-.contact-btn{
+.contact-btn {
     background-color: rgb(13, 19, 33, 100%);
     color: white;
     padding: 21px;
@@ -56,22 +56,22 @@
 
 /* why web development */
 
-.section-development{
+.section-development {
     font-family: "Azeret Mono", monospace;
     padding: 0px 97px;
 }
 
-.align-text{
+.align-text {
     text-align: center;
 }
 
-.development-section-first{
+.development-section-first {
     display: flex;
     justify-content: space-between;
     padding: 48px;
 }
 
-.section-width{
+.section-width {
     width: 477px;
     height: 219px;
 }
@@ -86,22 +86,22 @@
 
 /* Inspiration Section Style Start Here */
 
-.myinspiration-sec{
+.myinspiration-sec {
     font-family: "Azeret Mono", monospace;
 }
 
-.youtube-video-padding{
+.youtube-video-padding {
     padding: 32px;
 }
 
 /* Current Target Section Style Start Here */
 
-.current-target-section{
+.current-target-section {
     font-family: "Azeret Mono", monospace;
     margin-top: 151px;
 }
 
-.logo-section{
+.logo-section {
     display: flex;
     /* justify-content: space-between; */
     margin: 48px 0px;
@@ -110,16 +110,16 @@
     justify-content: center;
 }
 
-.logo-width{
+.logo-width {
     width: 364px;
     height: 250px;
 }
 
-.inside-margin{
+.inside-margin {
     margin: 0 24px;
 }
 
-.learn-more-link{
+.learn-more-link {
     color: black;
 }
 
@@ -128,13 +128,13 @@
 
 .support-page {
     font-family: "Azeret Mono", monospace;
-    background-image: url("/images/handshake.jpg");
+    background-image: url(/images/handshake.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
 }
 
-.inside-support{
+.inside-support {
     text-align: center;
     padding: 100px;
     color: #ffffff;
