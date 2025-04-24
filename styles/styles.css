@@ -93,3 +93,32 @@
 .youtube-video-padding{
     padding: 32px;
 }
+
+/* Current Target Section Style Start Here */
+
+.current-target-section{
+    font-family: "Azeret Mono", monospace;
+    margin-top: 151px;
+}
+
+.logo-section{
+    display: flex;
+    /* justify-content: space-between; */
+    margin: 48px 0px;
+    padding: 50px;
+    text-align: center;
+    justify-content: center;
+}
+
+.logo-width{
+    width: 364px;
+    height: 299px;
+}
+
+.inside-margin{
+    margin: 0 24px;
+}
+
+.learn-more-link{
+    color: black;
+}
