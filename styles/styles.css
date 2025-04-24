@@ -83,3 +83,13 @@
     border-radius: 2px;
     background-color: white;
 }
+
+/* Inspiration Section Style Start Here */
+
+.myinspiration-sec{
+    font-family: "Azeret Mono", monospace;
+}
+
+.youtube-video-padding{
+    padding: 32px;
+}
