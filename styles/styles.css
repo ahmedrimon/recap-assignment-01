@@ -112,7 +112,7 @@
 
 .logo-width{
     width: 364px;
-    height: 299px;
+    height: 250px;
 }
 
 .inside-margin{
@@ -121,4 +121,21 @@
 
 .learn-more-link{
     color: black;
+}
+
+
+/* Support page start here */
+
+.support-page {
+    font-family: "Azeret Mono", monospace;
+    background-image: url("/images/handshake.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+.inside-support{
+    text-align: center;
+    padding: 100px;
+    color: #ffffff;
 }
