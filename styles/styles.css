@@ -53,3 +53,33 @@
     margin-bottom: 45px;
     border-radius: 10px;
 }
+
+/* why web development */
+
+.section-development{
+    font-family: "Azeret Mono", monospace;
+    padding: 0px 97px;
+}
+
+.align-text{
+    text-align: center;
+}
+
+.development-section-first{
+    display: flex;
+    justify-content: space-between;
+    padding: 48px;
+}
+
+.section-width{
+    width: 477px;
+    height: 219px;
+}
+
+.learn-more-btn {
+    border: 1px solid gray;
+    width: 147px;
+    padding: 10px;
+    border-radius: 2px;
+    background-color: white;
+}
