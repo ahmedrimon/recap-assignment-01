@@ -139,3 +139,12 @@
     padding: 100px;
     color: #ffffff;
 }
+
+/* Footer style start here */
+
+.footer-container {
+    font-family: "Azeret Mono", monospace;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
